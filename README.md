@@ -2,7 +2,7 @@
 
 Python solutions of Google Code Jam 2011. Solution begins with `*` means it will get TLE in the largest data set (total computation amount > `10^8`, which is not friendly for Python to solve in 5 ~ 15 seconds). A `4-minute` timer is set for the small dataset and a `8-minute` timer is set for the large dataset this year.
 
-* [GoogleCodeJame-2010](https://github.com/kamyu104/GoogleCodeJam-2010)
+* [Code Jam 2010](https://github.com/kamyu104/GoogleCodeJam-2010)
 * [Qualification Round](https://github.com/kamyu104/GoogleCodeJam-2011#qualification-round)
 * [Round 1A](https://github.com/kamyu104/GoogleCodeJam-2011#round-1a)
 * [Round 1B](https://github.com/kamyu104/GoogleCodeJam-2011#round-1b)
@@ -10,6 +10,7 @@ Python solutions of Google Code Jam 2011. Solution begins with `*` means it will
 * [Round 2](https://github.com/kamyu104/GoogleCodeJam-2011#round-2)
 * [Round 3](https://github.com/kamyu104/GoogleCodeJam-2011#round-3)
 * [Wolrd Finals](https://github.com/kamyu104/GoogleCodeJam-2011#world-finals)
+* [Code Jam 2012](https://github.com/kamyu104/GoogleCodeJam-2012)
 
 ## Qualification Round
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
