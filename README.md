@@ -15,29 +15,53 @@ Python solutions of Google Code Jam 2011. Solution begins with `*` means it will
 ## Qualification Round
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+|A| [Bot Trust](https://code.google.com/codejam/contest/975485/dashboard#s=p0)| | | | | | |
+|B| [Magicka](https://code.google.com/codejam/contest/975485/dashboard#s=p1)| | | | | | |
+|C| [Candy Splitting](https://code.google.com/codejam/contest/975485/dashboard#s=p2)| | | | | | |
+|D| [GoroSort](https://code.google.com/codejam/contest/975485/dashboard#s=p3)| | | | | | |
 
 ## Round 1A
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+|A| [FreeCell Statistics](https://code.google.com/codejam/contest/1145485/dashboard#s=p0)| | | | | | |
+|B| [The Killer Word](https://code.google.com/codejam/contest/1145485/dashboard#s=p1)| | | | | | |
+|C| [Pseudominion](https://code.google.com/codejam/contest/1145485/dashboard#s=p2)| | | | | | |
 
 ## Round 1B
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+|A| [RPI](https://code.google.com/codejam/contest/1150485/dashboard#s=p0)| | | | | | |
+|B| [Revenge of the Hot Dogs](https://code.google.com/codejam/contest/1150485/dashboard#s=p1)| | | | | | |
+|C| [House of Kittens](https://code.google.com/codejam/contest/1150485/dashboard#s=p2)| | | | | | |
 
 ## Round 1C
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+|A| [Square Tiles](https://code.google.com/codejam/contest/1128486/dashboard#s=p0)| | | | | | |
+|B| [Space Emergency](https://code.google.com/codejam/contest/1128486/dashboard#s=p1)| | | | | | |
+|C| [Perfect Harmony](https://code.google.com/codejam/contest/1128486/dashboard#s=p2)| | | | | | |
 
 ## Round 2
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+|A| [Airport Walkways](https://code.google.com/codejam/contest/1150486/dashboard#s=p0)| | | | | | |
+|B| [Spinning Blade](https://code.google.com/codejam/contest/1150486/dashboard#s=p1)| | | | | | |
+|C| [Expensive Dinner](https://code.google.com/codejam/contest/1150486/dashboard#s=p2)| | | | | | |
+|D| [A.I. War](https://code.google.com/codejam/contest/1150486/dashboard#s=p3)| | | | | | |
 
 ## Round 3
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+|A| [Irregular Cakes](https://code.google.com/codejam/contest/1158485/dashboard#s=p0)| | | | | | |
+|B| [Dire Straights](https://code.google.com/codejam/contest/1158485/dashboard#s=p0)| | | | | | |
+|C| [Perpetual Motion](https://code.google.com/codejam/contest/1158485/dashboard#s=p0)| | | | | | |
+|D| [Mystery Square](https://code.google.com/codejam/contest/1158485/dashboard#s=p0)| | | | | | |
 
 ## Wolrd Finals
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+|A| [Runs](https://code.google.com/codejam/contest/1327485/dashboard#s=p0)| | | | | | |
+|B| [Rains Over Atlantis](https://code.google.com/codejam/contest/1327485/dashboard#s=p1)| | | | | | |
 |C| [Program within a Program](https://code.google.com/codejam/contest/1327485/dashboard#s=p2)|||| Very Hard | | |
 |D| [Ace in the Hole](https://code.google.com/codejam/contest/1327485/dashboard#s=p3)|||| Very Hard | | |
+|E| [Google Royale](https://code.google.com/codejam/contest/1327485/dashboard#s=p4)| | | | | | |
