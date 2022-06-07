@@ -1,4 +1,4 @@
-# [GoogleCodeJam 2011](https://codingcompetitions.withgoogle.com/codejam/archive/2011) ![Language](https://img.shields.io/badge/language-Python-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE) ![Progress](https://img.shields.io/badge/progress-0%20%2F%2026-ff69b4.svg)
+# [GoogleCodeJam 2011](https://codingcompetitions.withgoogle.com/codejam/archive/2011) ![Language](https://img.shields.io/badge/language-Python-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE) ![Progress](https://img.shields.io/badge/progress-1%20%2F%2026-ff69b4.svg)
 
 Python solutions of Google Code Jam 2011. Solution begins with `*` means it will get TLE in the largest data set (total computation amount > `10^8`, which is not friendly for Python to solve in 5 ~ 15 seconds). A `4-minute` timer is set for the small dataset and a `8-minute` timer is set for the large dataset this year.
 
@@ -18,7 +18,7 @@ Python solutions of Google Code Jam 2011. Solution begins with `*` means it will
 |A| [Bot Trust](https://code.google.com/codejam/contest/975485/dashboard#s=p0)| | | | | | |
 |B| [Magicka](https://code.google.com/codejam/contest/975485/dashboard#s=p1)| | | | | | |
 |C| [Candy Splitting](https://code.google.com/codejam/contest/975485/dashboard#s=p2)| | | | | | |
-|D| [GoroSort](https://code.google.com/codejam/contest/975485/dashboard#s=p3)| | | | | | |
+|D| [GoroSort](https://codingcompetitions.withgoogle.com/codejam/round/0000000000432f3a/0000000000432ccf)| [Python3](./Qualification%20Round/gorosort.py3) |  _O(N)_ | _O(1)_ | Easy | | Math, Expected Value |
 
 ## Round 1A
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
